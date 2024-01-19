@@ -1,2 +1,2 @@
 # Go-Basic-WebTemplate
-A basic web template returning http response written in go.
+A basic web app returning http response written in go.
